@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "patel",
+      "age": "27",
+      "salary": "55210",
+      "id": 1
+    },
+    {
+      "name": "krupali",
+      "age": "25",
+      "salary": "25000",
+      "id": 2
+    },
+    {
+      "name": "divy",
+      "age": "25",
+      "salary": "55210",
+      "id": 3
+    },
+    {
+      "name": "gunjan",
+      "age": "26",
+      "salary": "55210",
+      "id": 4
+    },
+    {
+      "name": "krupali",
+      "age": "23",
+      "salary": "55210",
+      "id": 5
+    },
+    {
+      "name": "patel juli",
+      "age": "22",
+      "salary": "2500",
+      "id": 7
+    }
+  ]
+}
